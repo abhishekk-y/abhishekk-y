@@ -1,7 +1,13 @@
 <h1>
   <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>
   Hey! Nice to see you.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=abhishekk-y&color=000000&style=for-the-badge&label=VIEWS" />
 </h1>
+
 
 <table>
   <tr>
@@ -120,14 +126,8 @@
     </div>
   </div>
 </p>
-
-## ⏱️ WakaTime Coding Stats
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-<br>
 <p align="center">
-  <!-- Code Time Badge -->
-  <img src="http://img.shields.io/badge/Code%20Time-186%20hrs%2012%20mins-blue" />
+  <!-- Profile View Counter -->
+  <img src="https://komarev.com/ghpvc/?username=abhishekk-y&color=blue" alt="Profile Views" />
 </p>
-
 
