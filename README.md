@@ -1,55 +1,34 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
----
+<p>Welcome to my page! <br> I'm Abhishek, a developer passionate about exploring and learning new things.</p>
 
-<!-- 🔥 Tech Icons Row (Your Icons, Modern Style) -->
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" />
-  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="55" />
-  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="55" />
-  <img src="https://skillicons.dev/icons?i=express" height="55" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="55" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="55" />
-  <img src="https://skillicons.dev/icons?i=linux" height="55" />
-  <img src="https://cdn.simpleicons.org/arduino/00979D" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" />
-  <img src="https://cdn.simpleicons.org/git/F05032" height="55" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="55" />
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
+
+<h3>Things I code with</h3>
+<p>
+  <!-- Languages -->
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ED8B00?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" />
+  
+  <!-- Frameworks/Tools -->
+  <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
 </p>
 
----
-
-<!-- 🔗 Social Buttons (Centered Like Screenshot) -->
-<div align="center">
-  <a href="https://discord.com/users/@ttreexx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-
-  <a href="mailto:boysbing7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-
-  <a href="https://www.hackerrank.com/profile/24BCS12988" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="28" />
-  </a>
-</div>
-
----
-
-<!-- 📊 GitHub Stats – All 3 in One Line -->
+<h3>GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekk-y&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=abhishekk-y&theme=shadow_blue&hide_border=false" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekk-y&theme=shadow_blue&hide_border=false&layout=compact" height="170" />
+<img src="https://github-readme-stats.vercel.app/api?username=abhishekk-y&show_icons=true&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekk-y&layout=compact&hide_border=true" />
+</p>
+
+<h3>Where to find me</h3>
+<p>
+<a href="https://github.com/abhishekk-y" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
