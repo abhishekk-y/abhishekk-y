@@ -27,8 +27,18 @@
   </tr>
 </table>
 
+<br/><br/>
+<img width="170%" src="https://github-profile-trophy-jj1uszm0j-ryo-ma-s-team.vercel.app/?username=abhishekk-y&no-bg=true&no-frame=true&theme=alduin" align="center"/>
+<br/><br/>
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
+  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HACKERRANK-DAC6C2?style=for-the-badge"/></a>
+  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/DISCORD-DAC6C2?style=for-the-badge"/></a>
+  <a href="mailto:"><img src="https://img.shields.io/badge/EMAIL-DAC6C2?style=for-the-badge"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
+</p>
 
-<h3>Things I code with</h3>
+## </> Things I code with
 <p>
 
   <!-- Programming Languages -->
@@ -66,76 +76,49 @@
 
 </p>
 
-<br/><br/>
-<img width="150%" src="https://github-profile-trophy-jj1uszm0j-ryo-ma-s-team.vercel.app/?username=abhishekk-y&no-bg=true&no-frame=true&theme=alduin" align="center"/>
-<br/><br/>
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
-  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HACKERRANK-DAC6C2?style=for-the-badge"/></a>
-  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/DISCORD-DAC6C2?style=for-the-badge"/></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/EMAIL-DAC6C2?style=for-the-badge"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
-</p>
 
 ## 📊 Github Stats
-<!-- 🔥 GitHub Streak -->
+
+<!-- 🔥 Full Stats Section with Border -->
 <p align="center">
-  <a href="https://git.io/streak-stats">
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com?user=abhishekk-y&theme=tokyonight-duo&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D"
-      alt="GitHub Streak"
-      width="65%"
-    />
-  </a>
-</p>
-<!-- 🔥 GitHub Stats + Languages -->
-<p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=abhishekk-y&show_icons=true&count_private=true&theme=react&bg_color=0D1117" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekk-y&show_icons=true&count_private=true&theme=react&bg_color=0D1117&layout=compact" />
-</p>
-<!-- 🔥 Profile Summary Card -->
-<p align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img 
-      width="80%" 
-      alt="Profile Summary"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekk-y&theme=2077"
-    />
-  </a>
+  <div style="border: 2px solid #555; padding: 20px; border-radius: 12px; display: inline-block; width: 90%;">
+    <!-- ⭐ Streak (Left) + Pie Chart (Right) -->
+    <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+      <!-- Streak Stats -->
+      <a href="https://git.io/streak-stats">
+        <img 
+          src="https://github-readme-streak-stats.herokuapp.com?user=abhishekk-y&theme=tokyonight-duo&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D"
+          alt="GitHub Streak"
+          width="55%"
+          style="border: 2px solid #555; border-radius: 8px;"
+        />
+      </a>
+      <!-- Pie Chart (WITH BORDER) -->
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekk-y&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true"
+        alt="Top Languages Pie Chart"
+        width="30%"
+        style="border: 2px solid #555; border-radius: 8px;"
+      />
+    </div>
+    <!-- ⭐ Normal Stats + Languages -->
+    <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+      <img width="55%" src="https://github-readme-stats.vercel.app/api?username=abhishekk-y&show_icons=true&count_private=true&theme=react&bg_color=0D1117" style="border: 2px solid #555; border-radius: 8px;" />
+      <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekk-y&show_icons=true&count_private=true&theme=react&bg_color=0D1117&layout=compact" style="border: 2px solid #555; border-radius: 8px;" />
+    </div>
+    <br><br>
+    <!-- ⭐ Profile Summary Card -->
+    <div style="text-align: center;">
+      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+        <img 
+          width="100%" 
+          alt="Profile Summary"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekk-y&theme=2077"
+          style="border: 2px solid #555; border-radius: 10px;"
+        />
+      </a>
+    </div>
+  </div>
 </p>
 
-<h3>Open source projects</h3>
-<table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-	  <tr>
-      <td><a href="https://github.com/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack"><b>Typescript & React Chrome Extension Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/Chrome-Extension-with-React-and-Typescript-Starter-Pack?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter"><b>NodeJs Express TypeScript GraphQL Starter</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/nodejs-typescript-express-apollo-graphql-starter?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
+
