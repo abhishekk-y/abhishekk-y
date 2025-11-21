@@ -127,8 +127,23 @@
     </div>
   </div>
 </p>
-<p align="center">
-  <!-- Profile View Counter -->
-  <img src="https://komarev.com/ghpvc/?username=abhishekk-y&color=blue" alt="Profile Views" />
+
+## 📫 Contact
+**Please contact me on Discord for a quick response:** <a href="https://discord.com/users/ttreexx">Abhishek</a> 
+<br/>
+<!-- BADGES IN ONE CLEAN LINE -->
+<p align="left">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=abhishekk-y&color=87CEFA&style=flat&label=Profile+views" />
+  <!-- Followers -->
+  <a href="https://github.com/abhishekk-y">
+    <img src="https://img.shields.io/github/followers/abhishekk-y?label=Followers&style=flat" />
+  </a>
+  <!-- Discord -->
+  <a href="https://discord.com/users/ttreexx">
+    <img src="https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white&style=flat" />
+  </a>
 </p>
+
+
 
