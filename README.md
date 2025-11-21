@@ -121,4 +121,13 @@
   </div>
 </p>
 
+## ⏱️ WakaTime Coding Stats
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+<br>
+<p align="center">
+  <!-- Code Time Badge -->
+  <img src="http://img.shields.io/badge/Code%20Time-186%20hrs%2012%20mins-blue" />
+</p>
+
 
