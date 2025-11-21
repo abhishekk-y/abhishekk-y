@@ -1,65 +1,55 @@
-<h2 align="left">Hi 👋! My name is Abhisek Yadav and I'm a Full-Stack Developer, from India.</h2>
+<h1 align="center">Hey 👋 What's Up?</h1>
 
-###
+---
 
+<!-- 🔥 Tech Icons Row (Your Icons, Modern Style) -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="55" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="55" />
+  <img src="https://cdn.simpleicons.org/nodedotjs/339933" height="55" />
+  <img src="https://skillicons.dev/icons?i=express" height="55" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="55" />
+  <img src="https://skillicons.dev/icons?i=supabase" height="55" />
+  <img src="https://skillicons.dev/icons?i=linux" height="55" />
+  <img src="https://cdn.simpleicons.org/arduino/00979D" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="55" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="55" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="55" />
+</p>
+
+---
+
+<!-- 🔗 Social Buttons (Centered Like Screenshot) -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhishekk-y&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishekk-y&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="c++ logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" alt="kotlin logo" />
-</div>
-
-###
-
-<div align="left">
-
-  <a href="https://www.youtube.com/@ttreexx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-
-  <a href="https://instagram.com/ttreexx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  </a>
-
   <a href="https://discord.com/users/@ttreexx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="28" />
   </a>
 
   <a href="mailto:boysbing7@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="28" />
   </a>
 
-  <a href="https://www.linkedin.com/in/abhisekky" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <a href="https://www.hackerrank.com/profile/24BCS12988" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="28" />
   </a>
-
 </div>
 
-###
+---
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/abhishekk-y/abhishekk-y/output/snake.svg" alt="Snake animation" />
-
+<!-- 📊 GitHub Stats – All 3 in One Line -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekk-y&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=abhishekk-y&theme=shadow_blue&hide_border=false" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekk-y&theme=shadow_blue&hide_border=false&layout=compact" height="170" />
+</p>
