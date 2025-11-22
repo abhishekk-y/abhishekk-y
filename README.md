@@ -39,9 +39,9 @@
 <br/><br/>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
-  <a href="https://www.hackerrank.com/"><img src="https://img.shields.io/badge/HACKERRANK-DAC6C2?style=for-the-badge"/></a>
-  <a href="https://discord.com/users/"><img src="https://img.shields.io/badge/DISCORD-DAC6C2?style=for-the-badge"/></a>
-  <a href="mailto:"><img src="https://img.shields.io/badge/EMAIL-DAC6C2?style=for-the-badge"/></a>
+  <a href="https://www.hackerrank.com/profile/24BCS12988"><img src="https://img.shields.io/badge/HACKERRANK-DAC6C2?style=for-the-badge"/></a>
+  <a href="https://discord.com/users/ttreexx"><img src="https://img.shields.io/badge/DISCORD-DAC6C2?style=for-the-badge"/></a>
+  <a href="mailto:boysbing7@gmail.com"><img src="https://img.shields.io/badge/EMAIL-DAC6C2?style=for-the-badge"/></a>
   <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
 </p>
 
