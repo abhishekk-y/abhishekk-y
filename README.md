@@ -93,7 +93,7 @@
   <tr>
     <td colspan="2" align="center">
       <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-statsss.vercel.app?user=abhishekk-y&theme=transparent&border_radius=5.2&date_format=j%20M%5B%20Y%5D&card_width=1000" alt="GitHub Streak" /></a>
-      <img width="0%" src="https://raw.githubusercontent.com/abhishekk-y/stats/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+      <img width="100%" src="https://raw.githubusercontent.com/abhishekk-y/stats/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
     </td>
   </tr>
   <tr>
