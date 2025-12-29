@@ -88,47 +88,11 @@
 
 ## 📊 Github Stats
 
-<!-- 🔥 Full Stats Section with Border -->
-<p align="center">
-  <div style="border: 2px solid #555; padding: 20px; border-radius: 12px; display: inline-block; width: 90%;">
-    <!-- ⭐ Streak (Left) + Pie Chart (Right) -->
-    <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-      <!-- Streak Stats -->
-      <a href="https://git.io/streak-stats">
-        <img 
-          src="https://github-readme-streak-stats.herokuapp.com?user=abhishekk-y&theme=tokyonight-duo&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D"
-          alt="GitHub Streak"
-          width="55%"
-          style="border: 2px solid #555; border-radius: 8px;"
-        />
-      </a>
-      <!-- Pie Chart (WITH BORDER) -->
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekk-y&layout=pie&hide_border=true&langs_count=5&theme=transparent&title_color=539BF5&text_color=ADBAC7&text_bold=true"
-        alt="Top Languages Pie Chart"
-        width="30%"
-        style="border: 2px solid #555; border-radius: 8px;"
-      />
-    </div>
-    <!-- ⭐ Normal Stats + Languages -->
-    <div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
-      <img width="55%" src="https://github-readme-stats.vercel.app/api?username=abhishekk-y&show_icons=true&count_private=true&theme=react&bg_color=0D1117" style="border: 2px solid #555; border-radius: 8px;" />
-      <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekk-y&show_icons=true&count_private=true&theme=react&bg_color=0D1117&layout=compact" style="border: 2px solid #555; border-radius: 8px;" />
-    </div>
-    <br><br>
-    <!-- ⭐ Profile Summary Card -->
-    <div style="text-align: center;">
-      <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-        <img 
-          width="100%" 
-          alt="Profile Summary"
-          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekk-y&theme=2077"
-          style="border: 2px solid #555; border-radius: 10px;"
-        />
-      </a>
-    </div>
-  </div>
-</p>
+
+[![](https://raw.githubusercontent.com/abhishekk-y/stats/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/abhishekk-y/stats/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/abhishekk-y/stats/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/abhishekk-y/stats/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/abhishekk-y/stats/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 
 ## 📫 Contact
 **Please contact me on Discord for a quick response:** <a href="https://discord.com/users/ttreexx">Abhishek</a> 
