@@ -88,10 +88,29 @@
 
 ## 📊 Github Stats
 
-
-[![](https://raw.githubusercontent.com/abhishekk-y/stats/master/profile-summary-card-output/chartreuse_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/abhishekk-y/stats/master/profile-summary-card-output/chartreuse_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/abhishekk-y/stats/master/profile-summary-card-output/chartreuse_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/abhishekk-y/stats/master/profile-summary-card-output/chartreuse_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/abhishekk-y/stats/master/profile-summary-card-output/chartreuse_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+<table align="center" width="100%" cellspacing="0" cellpadding="4" style="border:none;">
+  <tr>
+    <td colspan="2" align="center">
+      <img width="100%" src="https://raw.githubusercontent.com/abhishekk-y/stats/master/profile-summary-card-output/github_dark/0-profile-details.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://raw.githubusercontent.com/abhishekk-y/stats/master/profile-summary-card-output/github_dark/1-repos-per-language.svg" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://raw.githubusercontent.com/abhishekk-y/stats/master/profile-summary-card-output/github_dark/2-most-commit-language.svg" />
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <img width="100%" src="https://raw.githubusercontent.com/abhishekk-y/stats/master/profile-summary-card-output/github_dark/3-stats.svg" />
+    </td>
+    <td width="50%" align="center">
+      <img width="100%" src="https://raw.githubusercontent.com/abhishekk-y/stats/master/profile-summary-card-output/github_dark/4-productive-time.svg" />
+    </td>
+  </tr>
+</table>
 
 
 ## 📫 Contact
