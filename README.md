@@ -32,7 +32,7 @@
 
 ## 🏆Github Profile Trophy
 <br/><br/>
-<img width="170%" src="https://github-profile-trophy-jj1uszm0j-ryo-ma-s-team.vercel.app/?username=abhishekk-y&no-bg=true&no-frame=true&theme=alduin" align="center"/>
+<img width="170%" src="https://github-profile-trophy.vercel.app/?username=abhishekk-y&no-bg=true&no-frame=true&theme=alduin" align="center"/>
 <br/><br/>
 <p align="center">
   <a href="#"><img src="https://img.shields.io/badge/%23-DAC6C2?style=for-the-badge"/></a>
